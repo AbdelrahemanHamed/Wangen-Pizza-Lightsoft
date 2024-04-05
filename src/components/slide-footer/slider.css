@@ -1,0 +1,12 @@
+.slider-footer {
+    margin-top: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.slider-footer img{
+  margin-right: 5px;
+
+}
